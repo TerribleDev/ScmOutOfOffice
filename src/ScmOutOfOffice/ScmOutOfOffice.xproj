@@ -14,6 +14,7 @@
   </PropertyGroup>
   <PropertyGroup>
     <SchemaVersion>2.0</SchemaVersion>
+    <ApplicationInsightsResourceId>/subscriptions/6332a4fe-3d5b-4857-9206-6dedd406f451/resourcegroups/WebResourceGroup/providers/microsoft.insights/components/ScmOutOfOffice</ApplicationInsightsResourceId>
   </PropertyGroup>
   <ItemGroup>
     <DnxInvisibleContent Include="bower.json" />
